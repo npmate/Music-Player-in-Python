@@ -5,3 +5,6 @@ Requirements:
 * Python
 * Tkinter
 * Pygame
+
+How to run:
+Run the main.py using any ide and you're good to go!
